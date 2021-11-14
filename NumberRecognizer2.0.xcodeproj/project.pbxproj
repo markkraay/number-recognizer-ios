@@ -56,8 +56,8 @@
 			isa = PBXGroup;
 			children = (
 				390305D9272D83BF0015AE68 /* MNIST_IMG_Recognizer.mlmodel */,
-				3932EE46272B3A940020C500 /* View */,
 				3932EE38272B3A840020C500 /* NumberRecognizer2_0App.swift */,
+				3932EE4A272B3ABA0020C500 /* DrawingArea.swift */,
 				3932EE3A272B3A840020C500 /* ContentView.swift */,
 				3932EE3C272B3A8B0020C500 /* Assets.xcassets */,
 				3932EE3E272B3A8B0020C500 /* Preview Content */,
@@ -71,14 +71,6 @@
 				3932EE3F272B3A8B0020C500 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		3932EE46272B3A940020C500 /* View */ = {
-			isa = PBXGroup;
-			children = (
-				3932EE4A272B3ABA0020C500 /* DrawingArea.swift */,
-			);
-			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
